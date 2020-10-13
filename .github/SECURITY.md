@@ -8,8 +8,8 @@ The latest (stable) version or newer.
 
 ## Reporting a Vulnerability
 
-Please send an email to contact@dtugend.com, preferably GnuPG/PGP encrypted:
-https://keys.openpgp.org/search?q=contact%40dtugend.com
+Please send an email to dominik@matrixstorm.com, preferably GnuPG/PGP encrypted:
+https://keys.openpgp.org/search?q=dominik%40matrixstorm.com
 
 If for some reason [@dtugend](https://github.com/dtugend) doesn't reply your email within reasonable time, please contact a different HLAE team member in our Discord: https://discord.gg/NGp8qhN
 
